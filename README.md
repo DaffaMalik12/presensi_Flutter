@@ -124,7 +124,7 @@ Ini adalah aplikasi presensi yang dibangun menggunakan Flutter untuk frontend da
 ## Preview
 ![Presensi](web/foto-login.png)
 ![Presensi](web/foto-landing-page.png)
-![Presensi](web/foto-map)
+![Presensi](web/foto-map.png)
 
 ## Lisensi
 
