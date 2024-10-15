@@ -121,6 +121,11 @@ Ini adalah aplikasi presensi yang dibangun menggunakan Flutter untuk frontend da
 4. Push ke branch: `git push origin fitur-baru`.
 5. Buat Pull Request.
 
+## Preview
+![Presensi](./web/icons/Screenshot 2024-10-15-172912.png)
+![Presensi](./web/icons/Screenshot 2024-10-15-173003.png)
+![Presensi](./web/icons/Screenshot 2024-10-15-173035.png)
+
 ## Lisensi
 
 Aplikasi ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
