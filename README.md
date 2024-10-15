@@ -37,7 +37,7 @@ Ini adalah aplikasi presensi yang dibangun menggunakan Flutter untuk frontend da
 1. Clone repository Laravel:
    ```bash
    git clone https://github.com/DaffaMalik12/presensi-backendnsi.git
-   cd repo-presensi-laravel
+   cd presensi-backend
    ```
 
 2. Install dependencies:
@@ -80,7 +80,7 @@ Ini adalah aplikasi presensi yang dibangun menggunakan Flutter untuk frontend da
 1. Clone repository Flutter:
    ```bash
    git clone https://github.com/DaffaMalik12/presensi-Flutter.git
-   cd repo-presensi-flutter
+   cd presensi-Flutter
    ```
 
 2. Install dependencies:
