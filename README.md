@@ -122,9 +122,9 @@ Ini adalah aplikasi presensi yang dibangun menggunakan Flutter untuk frontend da
 5. Buat Pull Request.
 
 ## Preview
-![Presensi](web/icons/Screenshot 2024-10-15-172912.png)
-![Presensi](web/icons/Screenshot 2024-10-15-173003.png)
-![Presensi](web/icons/Screenshot 2024-10-15-173035.png)
+![Presensi](web/foto-login.png)
+![Presensi](web/foto-landing-page.png)
+![Presensi](web/foto-map)
 
 ## Lisensi
 
